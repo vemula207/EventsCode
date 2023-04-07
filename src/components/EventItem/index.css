@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.eventCard-cont {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 48px;
+  width: 47%;
+  flex-wrap: wrap;
+  flex-grow: 0;
+  margin-right: 20px;
+}
+.img-btn {
+  background-color: transparent;
+  border: 1px;
+  cursor: pointer;
+}
+.event-img {
+  height: 250px;
+  width: 100%;
+}
+.active {
+  border: 2px solid #2dd4bf;
+}
+
+.name {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: 500;
+  padding-bottom: 0px;
+}
+.location {
+  font-size: 20px;
+  font-family: 'Roboto';
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: #ffffff;
+}

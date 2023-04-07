@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+}
+.events-cont {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 60%;
+  background-color: #3a4b63;
+  padding: 20px;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+.heading {
+  font-size: 35px;
+  color: #ffffff;
+  font-weight: 500;
+  padding-left: 35px;
+}
+.right-cont {
+  width: 40%;
+  padding: 20px;
+}
+.info {
+  text-align: center;
+  font-size: 25px;
+  color: #64748b;
+  font-family: 'Roboto';
+}

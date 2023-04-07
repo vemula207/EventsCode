@@ -1,0 +1,70 @@
+/* Write your CSS here */
+.right-cont {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  width: 40%;
+}
+.event-click {
+  font-size: 25px;
+  color: #475569;
+  font-family: 'Roboto';
+}
+.yetToReg-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+.yet-to-img {
+  height: 55vh;
+  width: 25vw;
+  margin-left: 60px;
+  margin-bottom: 20px;
+}
+.register-para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #475569;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.register-btn {
+  height: 40px;
+  padding: 10px;
+  text-align: center;
+  background-color: #0967d2;
+  border: none;
+  color: #ffffff;
+  font-size: 18px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.registered-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.right-tick-img {
+  width: 200px;
+  height: 200px;
+}
+.closed-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.closed-img {
+  width: 50%;
+  height: 40vh;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 10px;
+}
+.click-event {
+  font-size: 25px;
+  color: #475569;
+  font-family: 'Roboto';
+  text-align: center;
+}
